@@ -34,3 +34,19 @@ I'm a passionate MERN stack developer focusing on JavaScript  React.js, and Node
 ## 🤝 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-239120?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reoanulhasanpotfolio.netlify.app/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezoanul-hasan-6ab158240/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rezoanulhasan96@gmail.com)[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/riad.hasan.7524/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01734639066)
+
+
+
+
+
+
+
+
+
+
+
+<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p><a href="https://www.buymeacoffee.com/atik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atik" /></a></p>
+
+
+![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
